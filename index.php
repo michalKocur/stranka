@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo "prva verzia";
+        echo "druha verzia";
         ?>
     </body>
 </html>
