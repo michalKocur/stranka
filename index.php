@@ -10,6 +10,8 @@
         
         function b(){
             echo "func b<br>";
+        function a(){
+            echo "func a <br>";
         }
         ?>
     </body>
