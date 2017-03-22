@@ -7,6 +7,10 @@
     <body>
         <?php
         echo "vyrazna zmena";
+        
+        function b(){
+            echo "func b<br>";
+        }
         ?>
     </body>
 </html>
