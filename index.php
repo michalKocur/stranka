@@ -6,8 +6,7 @@
     </head>
     <body>
         <?php
-        echo "druha verzia";
-        echo "tretia verzia";
+        echo "vyrazna zmena";
         ?>
     </body>
 </html>
